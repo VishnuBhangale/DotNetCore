@@ -6,6 +6,7 @@ namespace PraticeWebApplication.Controllers
     {
         public IActionResult Home()
         {
+
             return View();
         }
         public IActionResult AboutUs()
