@@ -28,7 +28,7 @@ namespace PraticeWebApplication
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=First}/{action=Index}/{id?}");
+                pattern: "{controller=Guest}/{action=Home}/{id?}");
 
             app.Run();
         }

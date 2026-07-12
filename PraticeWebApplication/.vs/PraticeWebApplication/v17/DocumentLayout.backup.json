@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\guest\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\guest\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\guest\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\guest\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\guest\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\guest\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\guest\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\guest\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\guest\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\guest\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:05:05.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Views\\Guest\\Gallery.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Gallery.cshtml",
+              "RelativeToolTip": "Views\\Guest\\Gallery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:49:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Services.cshtml",
+              "RelativeDocumentMoniker": "Views\\Guest\\Services.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Services.cshtml",
+              "RelativeToolTip": "Views\\Guest\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:49:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Guest\\ContactUs.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Guest\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:48:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Guest\\AboutUs.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\Guest\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:48:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Guest\\Home.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Guest\\Home.cshtml",
+              "RelativeToolTip": "Views\\Guest\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:46:56.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "wwwroot\\css\\Style.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-11T01:39:32.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutMaster.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutMaster.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutMaster.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T01:35:13.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "Controllers\\GuestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T01:29:53.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

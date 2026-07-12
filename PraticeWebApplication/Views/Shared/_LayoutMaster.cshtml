@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    @* <link href="~/css/style.css" rel="stylesheet" /> *@
+    <style>
+        *{
+            margin:0px;
+          }   
+
+    @@media screen and (max-width: 600px) {
+        header{
+            background-color:yellow !important;
+        }
+        header img{
+            width:100px;
+            height:100px;
+        }
+      
+    }
+
+        header ul li a, .nav-link {
+            font-size: 22px !important;
+            color:yellow !important;
+
+        }
+    </style>
+</head>
+<body>
+    <header class="container-fluid bg-success">
+        <div class="row">
+            <div class="col-sm-4">
+                <img class="img-fluid" src="~/images/dotnetcorelogo.png" style="width:100px;height:100px;" />
+             </div>
+            <div class="col-sm-8">
+                <nav class="navbar navbar-expand-sm bg-success navbar-dark">
+                    <div class="container-fluid">                        
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/guest/home">Home</a>
+                                </li>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/guest/aboutus">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/guest/services">Services</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/guest/gallery">Gallery</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/guest/contactus">Contact Us</a>
+                                </li>
+                             
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>        
+    </header>
+    <div class="container-fluid bg-secondary">
+        @RenderBody()
+        <br />
+    </div>
+    <footer class="container-fluid bg-success mb-0">
+        <br />
+        <div class="row">
+        <div class="col-sm-4">
+            <h3>About Us</h3>
+            <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.
+            </p>
+        </div>
+         <div class="col-sm-4">
+            <h3>Main Menu</h3>
+            <ul>
+                <li><a href="/guest/home">Home</a></li>
+                <li><a href="/guest/aboutus">About us</a></li>
+                <li><a href="/guest/services">Services</a></li>
+                <li><a href="/guest/gallery">Gallery</a></li>
+                <li><a href="/guest/contactus">Contact us</a></li>
+            </ul>
+         </div>
+        <div class="col-sm-4">
+            <h3>Social Icon</h3>
+        </div>       
+        </div>
+    </footer>
+    
+    <script src="~/bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html>
