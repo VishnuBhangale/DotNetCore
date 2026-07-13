@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutMaster.cshtml";
+}
+
+<h1>Index</h1>
+@* <form action="index" method="post"> *@
+<form asp-action="index">
+    <p>
+        <input type="text" name="num1" placeholder="Enter First Number" />
+    </p>
+    <p>
+        <input type="text" name="num2" placeholder="Enter Second Number" />
+    </p>
+     <p>
+        <input type="submit" name="btnadd" value="+" />
+   
+        <input type="submit" name="btnadd" value="-" />
+    
+        <input type="submit" name="btnadd" value="*" />
+    
+        <input type="submit" name="btnadd" value="/" />
+   
+    <p>
+        @ViewBag.Result
+    </p>
+    </form>
