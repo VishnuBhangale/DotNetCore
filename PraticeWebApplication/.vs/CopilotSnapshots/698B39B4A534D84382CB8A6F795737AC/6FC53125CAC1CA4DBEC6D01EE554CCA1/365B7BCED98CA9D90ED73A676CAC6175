@@ -1,0 +1,12 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace PraticeWebApplication.Controllers
+{
+    public class ActionResultController : Controller
+    {
+        public IActionResult Index()
+        {
+            return View("hello.cshtml");
+        }
+    }
+}

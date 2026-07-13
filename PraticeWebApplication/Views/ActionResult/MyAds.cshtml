@@ -1,0 +1,141 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.NET Full Stack Course</title>
+    <style>
+        /* Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+            header h1 {
+                font-size: 3rem;
+                color: #00d4ff;
+                margin-bottom: 20px;
+            }
+
+            header p {
+                font-size: 1.2rem;
+                max-width: 600px;
+                margin: auto;
+            }
+
+        .btn {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 30px;
+            background: #00d4ff;
+            color: #000;
+            font-weight: bold;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+            .btn:hover {
+                background: #fff;
+                color: #203a43;
+            }
+
+        section {
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 30px;
+            width: 280px;
+            transition: transform 0.3s;
+        }
+
+            .card:hover {
+                transform: translateY(-10px);
+            }
+
+            .card h3 {
+                color: #00d4ff;
+                margin-bottom: 15px;
+            }
+
+        footer {
+            background: #111;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Become a .NET Full Stack Developer</h1>
+        <p>Master ASP.NET Core, Angular, Web API, and modern deployment practices with our hands-on course designed for real-world projects.</p>
+        <a href="#enroll" class="btn">Enroll Now</a>
+    </header>
+
+    <section>
+        <h2>Why Choose This Course?</h2>
+        <div class="features">
+            <div class="card">
+                <h3>🔥 Real Projects</h3>
+                <p>Work on enterprise-level applications to build confidence and experience.</p>
+            </div>
+            <div class="card">
+                <h3>⚡ Full Stack Skills</h3>
+                <p>Learn both front-end (Angular) and back-end (.NET Core) development.</p>
+            </div>
+            <div class="card">
+                <h3>🌐 Deployment Ready</h3>
+                <p>Understand Azure cloud deployment and API versioning for production apps.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="enroll">
+        <h2>Limited Seats Available!</h2>
+        <p>Don’t miss your chance to become a certified .NET Full Stack Developer.</p>
+        <a href="#" class="btn">Register Today</a>
+    </section>
+
+    <footer>
+        © 2026 .NET Full Stack Academy | Designed with ❤️
+    </footer>
+
+    <script>
+        // Simple animation for header text
+        const header = document.querySelector("header h1");
+        let colors = ["#00d4ff", "#ff4081", "#ffd740"];
+        let i = 0;
+        setInterval(() => {
+          header.style.color = colors[i % colors.length];
+          i++;
+        }, 2000);
+    </script>
+</body>
+</html>

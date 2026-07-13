@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\actionresult\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\actionresult\\hello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\actionresult\\myads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\actionresult\\myads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:views\\shared\\_layoutmaster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|c:\\learning\\dotnetcore\\praticewebapplication\\controllers\\actionresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0728C9-6417-4984-9C17-137419F77CEC}|PraticeWebApplication.csproj|solutionrelative:controllers\\actionresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutMaster.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutMaster.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\Shared\\_LayoutMaster.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutMaster.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T10:29:26.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAds.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\ActionResult\\MyAds.cshtml",
+              "RelativeDocumentMoniker": "Views\\ActionResult\\MyAds.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\ActionResult\\MyAds.cshtml",
+              "RelativeToolTip": "Views\\ActionResult\\MyAds.cshtml",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T10:33:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello.cshtml",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\ActionResult\\hello.cshtml",
+              "RelativeDocumentMoniker": "Views\\ActionResult\\hello.cshtml",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Views\\ActionResult\\hello.cshtml",
+              "RelativeToolTip": "Views\\ActionResult\\hello.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T10:29:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionResultController.cs",
+              "DocumentMoniker": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Controllers\\ActionResultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActionResultController.cs",
+              "ToolTip": "C:\\Learning\\DotNetCore\\PraticeWebApplication\\Controllers\\ActionResultController.cs",
+              "RelativeToolTip": "Controllers\\ActionResultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:28:12.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
