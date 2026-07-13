@@ -8,24 +8,45 @@ namespace PraticeWebApplication.Controllers
         {
             return View();
         }
+        //[HttpPost]
+        //public IActionResult Index(string num1,string num2,string btnadd)
+        //{
+        //    if (btnadd.Equals("+"))
+        //    {
+        //        ViewBag.Result = Convert.ToInt32(num1) + Convert.ToInt32(num2);
+        //    }
+        //    else if (btnadd.Equals("-"))
+        //    {
+        //        ViewBag.Result = Convert.ToInt32(num1) - Convert.ToInt32(num2);
+        //    }
+        //    else if (btnadd.Equals("*"))
+        //    {
+        //        ViewBag.Result = Convert.ToInt32(num1) * Convert.ToInt32(num2);
+        //    }
+        //    else
+        //    {
+        //        ViewBag.Result = Convert.ToInt32(num1) / Convert.ToInt32(num2);
+        //    }
+        //    return View();
+        //}
         [HttpPost]
-        public IActionResult Index(string num1,string num2,string btnadd)
+        public IActionResult Index(IFormCollection form)
         {
-            if (btnadd.Equals("+"))
+            if (form["btnadd"].Equals("+"))
             {
-                ViewBag.Result = Convert.ToInt32(num1) + Convert.ToInt32(num2);
+                ViewBag.Result = Convert.ToInt32(form["num1"]) + Convert.ToInt32(form["num2"]);
             }
-            else if (btnadd.Equals("-"))
+            else if (form["btnadd"].Equals("-"))
             {
-                ViewBag.Result = Convert.ToInt32(num1) - Convert.ToInt32(num2);
+                ViewBag.Result = Convert.ToInt32(form["num1"]) - Convert.ToInt32(form["num2"]);
             }
-            else if (btnadd.Equals("*"))
+            else if (form["btnadd"].Equals("*"))
             {
-                ViewBag.Result = Convert.ToInt32(num1) * Convert.ToInt32(num2);
+                ViewBag.Result = Convert.ToInt32(form["num1"]) * Convert.ToInt32(form["num2"]);
             }
             else
             {
-                ViewBag.Result = Convert.ToInt32(num1) / Convert.ToInt32(num2);
+                ViewBag.Result = Convert.ToInt32(form["num1"]) / Convert.ToInt32(form["num2"]);
             }
             return View();
         }
