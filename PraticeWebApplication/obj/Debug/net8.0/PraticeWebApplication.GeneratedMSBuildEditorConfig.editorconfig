@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aW9uUmVzdWx0XE15QWRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Learning/DotNetCore/PraticeWebApplication/Views/Addition/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkaXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Learning/DotNetCore/PraticeWebApplication/Views/First/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

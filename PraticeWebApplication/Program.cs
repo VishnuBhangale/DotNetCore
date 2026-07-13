@@ -1,7 +1,10 @@
+using PraticeWebApplication.Services;
+
 namespace PraticeWebApplication
 {
     public class Program
     {
+        //public static int Main(string[] args)
         public static int Main(string[] args)
         {
             // Diagnostic: log first-chance exceptions to help surface startup issues in the console
@@ -27,7 +30,7 @@ namespace PraticeWebApplication
 
                 // Add services to the container.
                 builder.Services.AddControllersWithViews();
-
+                builder.Services.AddScoped<AdditionService>();
                 var app = builder.Build();
 
                 // Configure the HTTP request pipeline.
